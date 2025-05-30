@@ -1,5 +1,5 @@
-<h1 align="center">Привет 👋, я T1MUR25</h1>
-<h3 align="center">Увлеченный фронтенд-разработчик из Узбекистана</h3>
+<h1 align="center">Hello 👋, My name is TiMUR</h1>
+<h3 align="center">Passionate frontend developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t1mur25&label=Profile%20views&color=0e75b6&style=flat" alt="t1mur25" /> </p>
 
