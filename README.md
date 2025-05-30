@@ -11,7 +11,7 @@
 <!-- СПИСОК-ПОСТОВ-БЛОГА:НАЧАЛО -->
 <!-- СПИСОК-ПОСТОВ-БЛОГА:КОНЕЦ -->
 
-<h3 align="left">Связаться со мной:</h3>
+<h3 align="left">Find me:</h3>
 <p align="left">
 <a href="https://dev.to/t1mur25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="t1mur25" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/t1mur25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="t1mur25" height="30" width="40" /></a>
